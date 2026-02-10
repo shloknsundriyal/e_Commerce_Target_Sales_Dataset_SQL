@@ -1,13 +1,13 @@
 # 🛒 Target E-Commerce SQL Analysis Project
 
-## 📌 Project Overview
+##  Project Overview
 This project performs an **end-to-end SQL analysis** on a real-world **Target-style e-commerce dataset** to derive **business-ready insights** across customers, orders, payments, sellers, products, delivery performance, and reviews.
 
-The objective is to demonstrate **company-level analytical thinking**, strong **SQL querying skills**, and the ability to translate raw data into **actionable business insights** — aligned with expectations from **Big 4 / analytics interviews**.
+The objective is to demonstrate **company-level analytical thinking**, strong **SQL querying skills**, and the ability to translate raw data into **actionable business insights** 
 
 ---
 
-## 🗂 Dataset Description
+##  Dataset Description
 The project uses multiple relational tables representing an e-commerce marketplace.
 
 ### Tables Used
@@ -24,7 +24,7 @@ All tables are joined using **primary–foreign key relationships** such as `ord
 
 ---
 
-## 🎯 Key Business Questions Answered
+##  Key Business Questions Answered
 - What is the **order time range** of the business?
 - How many **cities and states** does the company operate in?
 - How has **revenue evolved over time**?
@@ -36,53 +36,25 @@ All tables are joined using **primary–foreign key relationships** such as `ord
 
 ---
 
-## 🧠 Analysis Approach
+##  Analysis Approach
 1. **Exploratory Data Analysis (EDA)**
    - Validate schema and timestamps  
    - Understand data coverage  
 
 2. **Business-Focused SQL**
-   - Aggregations, joins, window functions  
-   - Time-series and cohort-style analysis  
+   - Aggregations, joins, window functions    
 
 3. **Insight Generation**
    - Translate results into business actions  
 
 ---
 
-## 🧩 Sample Insights
-- 📈 Revenue trend analysis highlights seasonality and growth patterns  
-- 🔁 Repeat customer analysis indicates retention opportunities  
-- 🚚 Late deliveries show lower average review scores  
-- 🏆 A small set of sellers and categories drive most revenue  
-- 🌍 Certain states dominate total sales  
 
----
-
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - SQL (BigQuery / PostgreSQL style)
 - Relational Data Modeling
 - Window Functions & Aggregations
 - Business Analytics
 
 ---
-
-## 📈 Use Cases
-- Data Analyst / Business Analyst portfolio project  
-- Big 4 interview case discussions  
-- Input layer for Power BI / Tableau dashboards  
-
----
-
-## 🚀 Future Enhancements
-- RFM customer segmentation  
-- Churn & retention analysis  
-- Power BI dashboarding  
-- Advanced KPI window functions  
-
----
-
-## ✅ Key Takeaway
-This project demonstrates not just SQL proficiency, but the ability to **think like a business analyst** — focusing on *why* a query matters and *how* it drives decisions.
-
-> “Good SQL answers questions. Great SQL drives decisions.”
+ 
